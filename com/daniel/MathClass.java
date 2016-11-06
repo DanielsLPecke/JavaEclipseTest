@@ -2,11 +2,11 @@ package com.daniel;
 
 public class MathClass {
 	
-	public double getPI(){
+	public static double getPI(){
 		return Math.PI;
 	}
 	
-	public int getAdd(int i, int k){
+	public static int getAdd(int i, int k){
 		return i + k;
 	}
 
